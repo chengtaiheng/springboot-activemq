@@ -20,5 +20,5 @@
  >
  >查看验证>
  访问接口成功以后，会返回一个json字符串，格式如下
- ![返回格式]（https://ws2.sinaimg.cn/large/006HkqXDgy1fzokqlj744j30de06jaa1.jpg)
+ ![返回格式](https://ws2.sinaimg.cn/large/006HkqXDgy1fzokqlj744j30de06jaa1.jpg)
  
