@@ -1,0 +1,12 @@
+#--------------端口配置----------------
+server:
+  port: 1667
+
+#-----------------spring配置---------------------
+spring:
+  activemq:
+    broker-url: "tcp://192.168.80.131:61616"
+    user: "admin"
+    password: "admin"
+    pool:
+      enabled: false
